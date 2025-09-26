@@ -1,5 +1,5 @@
 x = 10
-y = "Nombre"
+y = "josue"
 z = 3.9
 # Válido
 _variable = 10
@@ -14,7 +14,7 @@ variaBle = 10
 
 x, y, z = 10, 20, 30
 x = 10
-y = "Nombre"
+y = "josue"
 
 print(x)
 print(y)
